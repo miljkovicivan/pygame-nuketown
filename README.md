@@ -1,3 +1,5 @@
 # Run
 
-`python game.py`
+`python mips/game.py`
+or
+`mips-sim`
